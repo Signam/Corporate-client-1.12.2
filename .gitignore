@@ -1,0 +1,6 @@
+# Default ignored files
+/Corporate Client 1.12.2.iws
+
+# Project exclude paths
+/.gradle/
+/build/
